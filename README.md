@@ -1,5 +1,4 @@
-Construcción 4 - Clase 3, 03 de julio.2017
-
+COnstrucción 4, clase 3, 03 de julio.2017
 Html: intocable
 css: lo modificable
 
